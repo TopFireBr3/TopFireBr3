@@ -1,11 +1,7 @@
   <div>
-  <img align="right" alt="Rafa-pic" height="120" style="border:4px solid black" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDxn0kGxAc-w8VtLFJRMxFTldfCwlPLzwq4hFZglRUeI_MAq07"/>
+  <img  alt="Rafa-pic" height="500px" width="100%"  src="fundo.jpg"/>
   </div>
-<div>
-  <h3> ⚡Olá, meu nome é Gabriel Pereira, sou um desenvolvedor Front-end </h3>
-  <hr>
-</div>
-<h3> Como conheci a programação? </h3>
+
 <hr>
 <div align="center">
   <p>
