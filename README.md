@@ -11,8 +11,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TopFireBr3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopFireBr3&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-felberg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-felberg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div align="center" margin="1px">
@@ -44,6 +44,6 @@
  <br>
    <hr>
    
-  ![Snake animation](https://github.com/TopFireBr3/TopFireBr3/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gabriel-felberg/gabriel-felberg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
