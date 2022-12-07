@@ -10,7 +10,7 @@
 <hr>
 <br>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/gabriel-felberg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-felberg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-felberg&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -37,7 +37,7 @@
   
   <br>
 <div align="center"> 
-  <a href="https://www.instagram.com/ggabriel.pereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ggabriel.pereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ggabriel.p2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielpereirakenzieacademy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br>
