@@ -19,7 +19,7 @@
 <br>
 
 <div align="center" width="100%">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabriel-felberg&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=000" alt="Gabriel Felberg github stats" /> 
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabriel-felberg&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=000" alt="Gabriel Felberg github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-felberg&layout=compact&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=000" />
 </div>
 
